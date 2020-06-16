@@ -1,0 +1,574 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"myfi",
+				"myfile"
+			],
+			[
+				"my",
+				"myfile"
+			],
+			[
+				"m",
+				"myFile"
+			],
+			[
+				"Custom",
+				"customclass"
+			],
+			[
+				"Custo",
+				"CustomModule"
+			],
+			[
+				"c",
+				"customclass"
+			],
+			[
+				"date",
+				"date"
+			],
+			[
+				"n",
+				"numvers"
+			],
+			[
+				"Num",
+				"numbers"
+			],
+			[
+				"par",
+				"pArray5"
+			],
+			[
+				"parr",
+				"pArray4"
+			],
+			[
+				"augm",
+				"augmentation7"
+			],
+			[
+				"augme",
+				"augmentation3"
+			],
+			[
+				"passwor",
+				"password"
+			],
+			[
+				"str",
+				"String"
+			],
+			[
+				"aug",
+				"augmentation3"
+			],
+			[
+				"augmenta",
+				"augmentation1"
+			],
+			[
+				"augmentation",
+				"augmentation3"
+			],
+			[
+				"pArray",
+				"pArray1"
+			],
+			[
+				"augment",
+				"augmentation1"
+			],
+			[
+				"parray",
+				"pArray2"
+			],
+			[
+				"augen",
+				"augmentation2"
+			],
+			[
+				"new",
+				"pwNew"
+			],
+			[
+				"pArra",
+				"pArray10"
+			],
+			[
+				"augmen",
+				"augmentation2"
+			],
+			[
+				"pa",
+				"pArray5"
+			],
+			[
+				"pArr",
+				"pArray3"
+			],
+			[
+				"S",
+				"System"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"aum",
+				"augmentation5"
+			],
+			[
+				"char",
+				"toCharArray"
+			],
+			[
+				"j",
+				"j.b\tjava.beans."
+			],
+			[
+				"size",
+				"sizeInit"
+			],
+			[
+				"siz",
+				"sizeInit"
+			],
+			[
+				"en",
+				"encryptedPassword"
+			],
+			[
+				"get",
+				"getSender"
+			],
+			[
+				"total",
+				"totalBitcoins"
+			],
+			[
+				"valid",
+				"validateBlockchain"
+			],
+			[
+				"tra",
+				"transaction"
+			],
+			[
+				"cona",
+				"contains"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"user",
+				"userBalance"
+			],
+			[
+				"pf",
+				"pOfWork"
+			],
+			[
+				"ge",
+				"getAmount"
+			],
+			[
+				"trna",
+				"transaction"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"FIle",
+				"FileNotFoundException"
+			],
+			[
+				"out",
+				"outPutStream"
+			],
+			[
+				"Bloc",
+				"Block"
+			],
+			[
+				"ran",
+				"randGen"
+			],
+			[
+				"index",
+				"indexSend"
+			],
+			[
+				"tr",
+				"transactionCheck"
+			],
+			[
+				"tran",
+				"Transaction"
+			],
+			[
+				"fi",
+				"filename"
+			],
+			[
+				"blo",
+				"blockChain"
+			],
+			[
+				"bit",
+				"bitcoinMap"
+			],
+			[
+				"b",
+				"blockChain"
+			],
+			[
+				"timme",
+				"timestamp"
+			],
+			[
+				"parse",
+				"parseInt"
+			],
+			[
+				"inter",
+				"Integer"
+			],
+			[
+				"TIme",
+				"timestamp"
+			],
+			[
+				"string",
+				"String"
+			],
+			[
+				"pars",
+				"parsedDate"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"io",
+				"IOException"
+			],
+			[
+				"Io",
+				"IOException"
+			],
+			[
+				"Block",
+				"BlockChain"
+			],
+			[
+				"block",
+				"blockChain"
+			],
+			[
+				"re",
+				"receiver"
+			],
+			[
+				"pre",
+				"previousHash"
+			],
+			[
+				"T",
+				"Timestamp"
+			],
+			[
+				"trans",
+				"transaction"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"linked",
+				"linkedList"
+			],
+			[
+				"lin",
+				"linkedList"
+			],
+			[
+				"arr",
+				"charArray"
+			],
+			[
+				"nano",
+				"nanoToSeconds"
+			],
+			[
+				"uni",
+				"unique2"
+			],
+			[
+				"randomize",
+				"randomizeArray"
+			],
+			[
+				"na",
+				"nanoseconds"
+			],
+			[
+				"next",
+				"next"
+			],
+			[
+				"set",
+				"setPrevious"
+			],
+			[
+				"node",
+				"node2Add"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Victor/.python/files.py",
+		"/C/Users/Victor/.python/customclass.py",
+		"/C/Users/Victor/.python/CrashCourse.py",
+		"/C/Users/Victor/.python/CustomModule.py",
+		"/C/Users/Victor/.python/class.py",
+		"/C/Users/Victor/.python/modules.py",
+		"/C/Users/Victor/.python/fucntions.py",
+		"/C/Users/Victor/.python/loops.py",
+		"/C/Users/Victor/AppData/Roaming/Sublime Text 3/Packages/User/python_build_fix.sublime-build",
+		"/C/Users/Victor/.python/HelloWorld.py",
+		"/C/Users/Victor/CSI2110-B/A4/a4filesprovided/Tester.java",
+		"/C/Users/Victor/CSI2110-B/A2/A2 300010115.zip",
+		"/C/Users/Victor/Desktop/go (1).php",
+		"/C/Users/Victor/AppData/Local/Temp/Rar$DIa6456.41909/DatabaseStandard.java",
+		"/C/Users/Victor/CSI2110-B/A4/a4filesprovided/A4 300010115/DatabaseStandard.java",
+		"/C/Users/Victor/AppData/Local/Temp/Rar$DIa6456.40663/PasswordCracker.java",
+		"/C/Users/Victor/CSI2110-B/A4/a4filesprovided/DatabaseStandard.java",
+		"/C/Users/Victor/AppData/Local/Temp/Rar$DIa11720.9628/PasswordCracker.java",
+		"/C/Users/Victor/CSI2110-B/A4/a4filesprovided/PasswordCracker.java",
+		"/C/Users/Victor/CSI2110-B/A4/a4filesprovided/DatabaseMine.java",
+		"/C/Users/Victor/CSI2110-B/A4/a4filesprovided/DatabaseInterface.java",
+		"/C/Users/Victor/CSI2110-B/A4/a4filesprovided/Sha1.java",
+		"/C/Users/Victor/AppData/Local/Temp/Rar$DIa12672.39465/Tester.java",
+		"/C/Users/Victor/CSI2110-B/A2/A2 300010115/BlockChain.java",
+		"/C/Users/Victor/CSI2110-B/A2/A2 300010115/Block.java",
+		"/C/Users/Victor/CSI2110-B/Lab 7/Lab7/Lab7/HashTable.java",
+		"/C/Users/Victor/CSI2110-B/Lab 7/Lab7/Lab7/HashingTest.java",
+		"/C/Users/Victor/CSI2110-B/Lab 7/Lab7/Lab7/HashFunction.java",
+		"/C/Users/Victor/CSI2110-B/Lab 7/Lab7/Lab7/DoubleHashStep.java",
+		"/C/Users/Victor/CSI2110-B/Lab 7/Lab7/Lab7/ChainedHashTable.java",
+		"/C/Users/Victor/CSI2110-B/Lab 7/Lab7/Lab7/ArrayHashTable.java",
+		"/C/Users/Victor/CSI2110-B/Lab 7/Lab7/Lab7/StringHash.java",
+		"/C/Users/Victor/AppData/Local/Temp/Temp1_lab8.zip/BubbleSort.java",
+		"/C/Users/Victor/CSI2110-B/Lab 7/Lab7/Lab7/SteppingFunction.java",
+		"/C/Users/Victor/CSI2110-B/Lab 7/Lab7/Lab7/ReverseStringHash.java",
+		"/C/Users/Victor/CSI2110-B/Lab 7/Lab7/Lab7/QuadraticProbeStep.java",
+		"/C/Users/Victor/CSI2110-B/Lab 7/Lab7/Lab7/QuadraticDoubleHashStep.java",
+		"/C/Users/Victor/CSI2110-B/Lab 7/Lab7/Lab7/LinearProbeStep.java",
+		"/C/Users/Victor/CSI2110-B/Lab 7/Lab7/Lab7/ToyTest.java",
+		"/C/Users/Victor/CSI2110-B/Lab5/Lab5/LinkedBinarySearchTree.java",
+		"/C/Users/Victor/CSI2110-B/Lab5/Lab5/TestTree.java",
+		"/C/Users/Victor/AppData/Local/Temp/Temp1_Lab5.zip/Lab5/TestTree.java",
+		"/C/Users/Victor/AppData/Local/Temp/Temp1_Lab5.zip/Lab5/LinkedBinarySearchTree.java",
+		"/C/Users/Victor/CSI2110-B/A2/BlockChain.java",
+		"/C/Users/Victor/CSI2110-B/A2/Block.java",
+		"/C/Users/Victor/CSI2110-B/A2/Transaction.java",
+		"/C/Users/Victor/CSI2110-B/A2/Sha1.java",
+		"/C/Users/Victor/CSI2110-B/lab3/TestListImplementation.java",
+		"/C/Users/Victor/CSI2110-B/lab3/Sentence.java",
+		"/C/Users/Victor/CSI2110-B/Lab2/balance/ArrayStack.java",
+		"/C/Users/Victor/CSI2110-B/lab3/NodeList.java",
+		"/C/Users/Victor/CSI2110-B/Lab2/balance/bracketsBalance.java",
+		"/C/Users/Victor/CSI2110-B/Lab2/dLinkList/TestDLinkedList.java",
+		"/C/Users/Victor/CSI2110-B/Lab2/stack/tryStack2.java",
+		"/C/Users/Victor/CSI2110-B/Lab2/dLinkList/DLinkedList.java",
+		"/C/Users/Victor/CSI2110-B/Lab2/stack/tryStack1.java",
+		"/C/Users/Victor/CSI2110-B/Lab2/stack/Stack.java",
+		"/C/Users/Victor/CSI2110-B/Projects/Untitled.java",
+		"/C/Users/Victor/OneDrive/Documents/-Ottawa/ITI1121-A/ASS2/GameView.java",
+		"/C/Users/Victor/CSI2110-B/Projects/Window.java",
+		"/C/Users/Victor/OneDrive/Documents/-Ottawa/ITI1121-A/ASS2/Minesweeper.java",
+		"/C/Users/Victor/OneDrive/Documents/-Ottawa/ITI1121-A/ASS2/GameController.java",
+		"/C/Users/Victor/OneDrive/Documents/-Ottawa/ITI1121-A/ASS2/GameModel.java",
+		"/C/Users/Victor/CSI2110-B/Lab1A/Lab1A/AlgAnalysis.java",
+		"/C/Users/Victor/CSI2110-B/Lab1A/Lab1A/Unique2.java",
+		"/C/Users/Victor/CSI2110-B/Lab1A/Lab1A/Unique1.java",
+		"/C/Users/Victor/CSI2110-B/Lab2/balance/StackFullException.java",
+		"/C/Users/Victor/CSI2110-B/Lab2/balance/StackEmptyException.java",
+		"/C/Users/Victor/CSI2110-B/Lab2/balance/Stack.java",
+		"/C/Users/Victor/CSI2110-B/Lab2/dLinkList/ListNode.java",
+		"/C/Users/Victor/OneDrive/Documents/-Ottawa/ITI1121-A/ASS2/GenericArrayStack.java",
+		"/C/Users/Victor/Desktop/CSI 2110B/lab1/GNode.java",
+		"/C/Users/Victor/Desktop/CSI 2110B/lab1/genericLinkedList.java",
+		"/C/Users/Victor/Desktop/CSI 2110B/lab1/LinkList.java",
+		"/C/Users/Victor/Desktop/CSI 2110B/lab1/lab1/GNode/GNode.java",
+		"/C/Users/Victor/Desktop/CSI 2110B/lab1/DNode.java",
+		"/C/Users/Victor/OneDrive/Documents/-Ottawa/ITI1121-A/ASS4/Q1/Q1.java",
+		"/C/Users/Victor/Desktop/CSI 2110B/Projects/Untitled.java"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "train_faces.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
